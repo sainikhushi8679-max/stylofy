@@ -1,0 +1,6 @@
+{
+  "name": "Stylofy",
+  "description": "Bespoke AI fashion stylist for men and women. Recommends clothing, jewelry, and footwear aligned with your unique skin tones, body shape, and face silhouette, with direct shopping links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
